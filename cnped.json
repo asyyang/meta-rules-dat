@@ -15,8 +15,8 @@
         "lf16-effectcdn.byteeffecttos-g.com",
         "lf16-pkgcdn.pitaya-clientai.com",
         "lf16-cdn-tos.tiktokcdn-us.com",
-        "p16-ttug-sg.ibyteimg.com"
-        "sf-tb-sg.ibytedtos.com"        
+        "p16-ttug-sg.ibyteimg.com",
+        "sf-tb-sg.ibytedtos.com"
       ],
       "domain_suffix": [
         "ai.com",
@@ -57,7 +57,7 @@
         "muscdn.com",
         "sgpstatp.com",
         "snssdk.com",
-        "tik-tokapi.com"
+        "tik-tokapi.com",
         "tiktok.com"
       ],
       "domain_keyword": [
