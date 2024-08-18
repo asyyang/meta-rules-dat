@@ -16,7 +16,13 @@
         "lf16-pkgcdn.pitaya-clientai.com",
         "lf16-cdn-tos.tiktokcdn-us.com",
         "p16-ttug-sg.ibyteimg.com",
-        "sf-tb-sg.ibytedtos.com"
+        "sf-tb-sg.ibytedtos.com",
+        "data-api.similarsites.com",
+        "mcs.us.tiktok.com",
+        "lf16-tiktok-common.ibytedtos.com",
+        "lf16-tiktok-common.tiktokcdn-us.com",
+        "lf16-tiktok-web.tiktokcdn-us.com",
+        "www.tiktok.com"
       ],
       "domain_suffix": [
         "ai.com",
@@ -58,7 +64,8 @@
         "sgpstatp.com",
         "snssdk.com",
         "tik-tokapi.com",
-        "tiktok.com"
+        "tiktok.com",
+        "tiktokcdn-us.com"       
       ],
       "domain_keyword": [
         "musical.ly",
