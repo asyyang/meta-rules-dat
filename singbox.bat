@@ -1,0 +1,1 @@
+D:\Software\singbox\data\sing-box\sing-box.exe rule-set compile --output cnped.srs cnped.json
