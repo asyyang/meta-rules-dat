@@ -26,9 +26,7 @@
         "gateway.ai.cloudflare.com",
         "alkalicore-pa.clients6.google.com",
         "alkalimakersuite-pa.clients6.google.com",
-        "gateway.ai.cloudflare.com",
-        "android.googleapis.com" ,
-        "proactivebackend-pa.googleapis.com"
+        "gateway.ai.cloudflare.com"
       ],
       "domain_suffix": [
         "ai.com",
@@ -76,11 +74,10 @@
         "claude.ai",
         "bard.google.com",
         "gemini.google.com",
-        "generativelanguage.googleapis.com",
-        "geller-pa.googleapis.com",
+        "googleapis.com",
         "meta.ai",
         "makersuite.google.com", 
-        "generativeai.google"     
+        "generativeai.google"
       ],
       "domain_keyword": [
         "musical.ly",
